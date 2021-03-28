@@ -1,4 +1,7 @@
 # TooFastRPG
+
+# [Play online here](https://ambiwlans.github.io/TooFastRPG/)
+
 J->E translation/localization patch for 速すぎるRPG
 
 A quick translation for a silly RPG made by KSB.
